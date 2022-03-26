@@ -1,0 +1,53 @@
+.about-me-text {
+  font-family: "Ubuntu";
+  font-weight: 800;
+  font-size: 3.5rem;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.about-me-why {
+  font-family: "Ubuntu";
+  font-weight: 700;
+  font-size: 1.3rem;
+  opacity: 0.8;
+  text-transform: capitalize;
+  text-align: center;
+}
+.about-me-inside {
+  width: 70%;
+  margin-inline: auto;
+}
+.about-me-some-text {
+  font-family: "Ubuntu";
+  font-weight: 600;
+  font-size: 1.2rem;
+  opacity: 0.8;
+  text-align: justify;
+  margin-right: 50px;
+  margin-left: 20px;
+}
+.few-highlights-text {
+  font-family: "Ubuntu";
+}
+.few-texts {
+  margin-left: 20px;
+  font-family: "Ubuntu";
+  font-weight: 900;
+  opacity: 0.9;
+  font-size: 1.5rem;
+  padding-top: 50px !important;
+}
+.few-lists {
+  font-family: "Ubuntu";
+  opacity: 1;
+  font-size: 1.2rem;
+}
+.few-lists ul li {
+    list-style-type:disc;
+  }
+  .few-lists ul {
+    padding-left: 50px;
+  }
+.container {
+  width: 1100px !important;
+}

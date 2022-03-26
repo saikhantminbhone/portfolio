@@ -1,0 +1,58 @@
+const Portfolio_data = [
+  {
+    id: 1,
+    category: "WEB DEVELOPMENT",
+    totalLike: "600",
+    title: "ABC Website ",
+    description:"Created ABC learning center to help student to view courses. Tools used  HTML, CSS, jQuery, Bootstrap",
+    github:"https://github.com/saikhantminbhone/ABC-education-website-",
+    image: "./images/ABC.png",
+  },
+  {
+    id: 2,
+    category: "JS DEVELOPMENT",
+    totalLike: "750",
+    title: "Travel Tour Backend Site",
+    description:"•	Designed travel tour website backend to help user in viewing travel plan, give review, and  can book. For admin, admin can create/update/delete travel plan. •	Tools used – Node js, express js and mongo DB",
+    github:"https://github.com/saikhantminbhone/Tour-site",
+    image: "./images/travelTour.png",
+  },
+  {
+    id: 3,
+    category: "JS DEVELOPMENT",
+    totalLike: "750",
+    title: "Health Care Backend Site",
+    description:"•	Developed health information backend site to help patients register for reference to doctor with patient code. •	Tools used – Node Js, MySQL, and express js",
+    github:"https://github.com/saikhantminbhone/Health-info",
+    image: "./images/healthCare.png",
+  },
+  {
+    id: 4,
+    category: "WEB DEVELOPMENT",
+    totalLike: "630",
+    title: "JOB PORTAL",
+    description:"•	Developed job portal site to help user in register, login, view job, search job. And the admin can update/create/delete jobs in the job portal. •	Tools used – Java, HTML, CSS, bootstrap ",
+    github:"https://github.com/saikhantminbhone/JobPortal-with-JSP",
+    image: "./images/jobPortal.png",
+  },
+  {
+    id: 5,
+    category: "PYTHON DEVELOPMENT",
+    totalLike: "360",
+    title: "GUI Quizz",
+    description:"•	Designed QUI quiz program to ask some quiz with graphics to the user and show with user score. •	Tools used – Python, Turtle graphics ",
+    github:"https://github.com/saikhantminbhone/GUI-Quiz-APP",
+    image: "./images/GUI.png",
+  },
+  {
+    id: 6,
+    category: "PYTHON DEVELOPMENT",
+    totalLike: "280",
+    title: "Python Birthday Wish email sender",
+    description:"•	Developed email birthday wisher sender, to send birthday wish to the user if today is user birthday.  •	Tools used – Python, SMPT ",
+    github:"https://github.com/saikhantminbhone/Birthday_wisher_with_email",
+    image: "./images/email.png",
+  },
+  
+]
+export default Portfolio_data
